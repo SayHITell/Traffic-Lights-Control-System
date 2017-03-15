@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Fri Dec 30 12:10:58 2016
+# Process ID: 404
+# Current directory: E:/vivadoprograms/my_ip/ip_repo/edit_PMOD_SSD_v1_0.runs/synth_1
+# Command line: vivado.exe -log PMOD_SSD_v1_0.vds -mode batch -messageDb vivado.pb -notrace -source PMOD_SSD_v1_0.tcl
+# Log file: E:/vivadoprograms/my_ip/ip_repo/edit_PMOD_SSD_v1_0.runs/synth_1/PMOD_SSD_v1_0.vds
+# Journal file: E:/vivadoprograms/my_ip/ip_repo/edit_PMOD_SSD_v1_0.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source PMOD_SSD_v1_0.tcl -notrace
